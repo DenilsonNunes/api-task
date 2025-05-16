@@ -20,6 +20,7 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 - Git instalado
   
 <br/>
+
 ## Instalação
 
 ### Clonando o Repositório
