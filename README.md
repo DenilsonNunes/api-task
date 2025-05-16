@@ -65,6 +65,7 @@ JWT_TTL= 'Informe o tempo de vida do token JWT (por exemplo, '30d' para 30 dias)
 ```bash
 npx prisma migrate dev
 ```
+<br/>
 
 ## Executando o Projeto
 
