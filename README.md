@@ -6,7 +6,6 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 
 - Node.js
 - NestJS
-- PostgreSQL
 - Prisma
 - JWT
 - SqlLite
