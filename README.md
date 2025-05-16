@@ -18,7 +18,8 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 - Node.js instalado
 - PostgreSQL configurado
 - Git instalado
-
+  
+<br/>
 ## Instalação
 
 ### Clonando o Repositório
@@ -26,8 +27,6 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 ```bash
 git clone https://github.com/DenilsonNunes/api-task
 ```
-<br/>
-
 ### Instalando as Dependências
 
 ```bash
