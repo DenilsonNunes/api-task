@@ -51,6 +51,8 @@ JWT_TOKEN_ISSUER=http://localhost:3000
 JWT_TTL= 'Informe o tempo de vida do token JWT (por exemplo, '30d' para 30 dias).'
 ```
 
+<br/>
+
 ### Configurando o Arquivo .env para rodar os testes
 
 Crie um arquivo `.env.test` na raiz do projeto com os seguintes parâmetros:
