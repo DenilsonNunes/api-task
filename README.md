@@ -10,6 +10,8 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 - Prisma
 - JWT
 - SqlLite
+  
+<br/>
 
 ## Pré-requisitos
 
@@ -24,6 +26,7 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 ```bash
 git clone https://github.com/DenilsonNunes/api-task
 ```
+<br/>
 
 ### Instalando as Dependências
 
