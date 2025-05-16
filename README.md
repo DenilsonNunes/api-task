@@ -73,6 +73,8 @@ npx prisma migrate dev
 ```bash
 npm run start:dev
 ```
+<br/>
+<br/>
 
 ## Documentação com Swagger
 
