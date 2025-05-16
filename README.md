@@ -22,7 +22,7 @@ Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permit
 ### Clonando o Repositório
 
 ```bash
-git https://github.com/DenilsonNunes/api-task
+git clone https://github.com/DenilsonNunes/api-task
 ```
 
 ### Instalando as Dependências
