@@ -73,3 +73,13 @@ npx prisma migrate dev
 ```bash
 npm run start:dev
 ```
+
+## Documentação com Swagger
+
+A documentação da API está configurada com Swagger e pode ser acessada através da seguinte URL após iniciar o servidor:
+
+```bash
+http://localhost:3000/docs
+```
+
+É possível visualizar e testar todos os endpoints da API diretamente na interface do Swagger.
