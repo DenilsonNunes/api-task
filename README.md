@@ -35,6 +35,8 @@ cd api-task
 npm install
 ```
 
+<br/>
+
 ### Configurando o Arquivo .env
 
 Crie um arquivo `.env` na raiz do projeto com os seguintes parâmetros:
