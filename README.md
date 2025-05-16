@@ -73,7 +73,7 @@ npx prisma migrate dev
 ```bash
 npm run start:dev
 ```
-</br>
+
 ## Documentação com Swagger
 
 A documentação da API está configurada com Swagger e pode ser acessada através da seguinte URL após iniciar o servidor:
