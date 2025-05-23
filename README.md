@@ -1,6 +1,6 @@
 # API Task
 
-Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permite criar, listar, atualizar e excluir tarefas,
+Esta é uma API desenvolvida em NestJS para gerenciamento de tarefas. Ela permite criar, listar, atualizar e excluir tarefas.
 
 ## Tecnologias Utilizadas
 
